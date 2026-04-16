@@ -1,2 +1,12 @@
-# email-verifier-system
-The Email Verifier Automation System is a Python project that validates email addresses based on standard format rules. It uses regular expressions (regex) to check the structure of the email and identifies common errors such as missing '@' symbols or incorrect domain formats. 
+# Email Verifier Automation System
+
+This project is a Python-based system that checks whether an email is valid or invalid using regex.
+
+## Features
+- Detects missing '@' symbol
+- Validates email format
+- Gives error reasons
+
+## Technologies
+- Python
+- Regex
